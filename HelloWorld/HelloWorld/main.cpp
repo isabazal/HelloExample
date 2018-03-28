@@ -16,6 +16,11 @@ int subtract(int x, int y)
 	return x - y;
 }
 
+int negate(int x)
+{
+	return -x;
+}
+
 int main()
 {
 	cout << "Hello World " << multiply(4, 5) << endl;
