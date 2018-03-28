@@ -16,9 +16,9 @@ int subtract(int x, int y)
 	return x - y;
 }
 
-int negate(int y)
+int negate(int x)
 {
-	return 0 - y;
+	return -x;
 }
 
 int main()

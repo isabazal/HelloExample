@@ -4,4 +4,7 @@ HelloWorld/.vs/
 HelloWorld/x64/
 HelloWorld/HelloWorld/x64/
 HelloWorld/x84/
+
+*.orig
+
 HelloWorld/HelloWorld/x84/
